@@ -34,6 +34,7 @@ Holders of the following NFTs will be automatically granted WL prices:
 2. CandyCity: **Bored Candy**
 3. Croswap: **Quartermasters**
 4. Moonflow: **Moonwolves**
+5. Phenix: **Flaming Phenix Club**
 
 ## Mint Incentives
 
