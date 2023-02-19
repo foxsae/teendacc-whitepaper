@@ -17,7 +17,7 @@ Not all of the interest that is generated will be paid out to the staking pools,
 | After Mint         | 50%               | 45%                 |
 | USD 100,000+       | 60%               | 35%                 |
 | USD 200,000+       | 70%               | 25%                 |
-| USD 300,000+       | 90%               | 5%                  |
+| USD 300,000+       | 95%               | 0%                  |
 
 A 5% portion of the interest will also be withheld and used for TeenDACC buy-back-and-burn until the total supply of TeenDACC is reduced from 7777 to 3000, and afterward, this 5% portion of interest will be used for future developments.&#x20;
 
