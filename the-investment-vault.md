@@ -14,15 +14,19 @@ It is estimated that the size of the TeenDACC Investment Vault will be worth app
 
 The investment allocations will be structured roughly as follows:&#x20;
 
-## Medium Risk: 40%
+## High Risk: 15%
 
-* 10% CandyCity Candy-USDC LP
-* 10% CandyCity Candy-WBTC
-* 20% Croswap Cros-USDC LP
+* 10% CandyCity Candy-Cro LP
+* 10% Croswap Cros-Cro LP
 
-## Low Risk: 30%
+## Medium Risk: 50%
 
-* 20% Croswap WBTC-USDC LP
+* 25% CandyCity Candy-USDC LP
+* 25% Croswap Cros-USDC LP
+
+## Low Risk: 20%
+
+* 10% Croswap USDC-USDT LP
 * 10% IcyCro Cro-token validator
 
 ## NFTs: 10%
@@ -36,4 +40,7 @@ The investment allocations will be structured roughly as follows:&#x20;
 
 * Phenix Finance Phnx-Token (staked into LP when available)
 * Flaming Phenix Club (staking booster when LP available)
+* Argo Finance bCro-Cro LP
+* Argo Finance Argo-USDC LP
+* Argo Finance Argonauts (staking booster, lottery discount)
 * And others...
