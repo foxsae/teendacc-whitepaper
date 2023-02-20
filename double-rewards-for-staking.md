@@ -19,7 +19,7 @@ Not all of the interest that is generated will be paid out to the staking pools,
 | USD 200,000+       | 70%               | 25%                 |
 | USD 300,000+       | 95%               | 0%                  |
 
-A 5% portion of the interest will also be withheld and used for TeenDACC buy-back-and-burn until the total supply of TeenDACC is reduced from 7777 to 3000, and afterward, this 5% portion of interest will be used for future developments.&#x20;
+A 5% portion of the interest will also be withheld and used for TeenDACC buy-back-and-burn until the total supply of TeenDACC is reduced from 7777 to 3000, and after that goal has been reached the 5% portion of interest will become a management fee.&#x20;
 
 There will also be a 5% portion of the vault entitled Experimental Investments which will be used for alternative strategies and future developments.
 
@@ -29,6 +29,14 @@ The CandyCity NFT staking platform does not lock NFTs, holders will be free to m
 
 Candy-token, and Cros-token, but we may decide to add others later.
 
-## Staking Degen Ape Cronos Club (DACC)
+## Staking DACC NFTs
 
-DACC is a royalty-based NFT that airdrops 75% of the royalties it earns from secondary markets back to holders every week. DACC holders will still continue to receive this royalty payment airdrop even when they are staked into the CandyCity staking platform. So for staked DACC holders, there will actually be three different rewards sent to them every week: Candy, Cros, and WCRO.&#x20;
+DACC is a royalty-rewards NFT,  each week the Council airdrops 75% of the royalties that DACC has earned from secondary markets back to DACC holders. DACC holders will still continue to receive this royalty payment airdrop even when they have staked their DACC into the CandyCity staking platform.
+
+## DACC NFT Isolation
+
+The DACC Council has created a mechanism to reduce the total supply of DACC, which is called the Isolation Wallet. Since the DACC contract was not written to include a burning mechanism, the Council has decided to do the next best thing: Isolate them. \
+\
+The DACC Council currently receives 25% of the secondary market royalties for DACC, and the Council has agreed to use these royalties to buy DACC off the markets and send them into an isolation wallet. Once in the isolation wallet, those DACC will no longer be able to receive any further royalties, they will not be bought or sold on any markets, and they will not be staked. Once in the isolation wallet those DACC are effectively dead NFTs.
+
+The Council agrees to continue to isolate DACC NFTs until the total supply of active DACC NFTs has been reduced from 7777 down to 4777, once that goal has been reached, the 25% portion of royalties will be re-assigned back to the Council.
