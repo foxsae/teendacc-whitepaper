@@ -10,15 +10,13 @@ description: Always check the contract address
 
 ## TeenDACC Mint&#x20;
 
-Coming soon...
+[Minting Now!!](https://candycity.finance/nfts/mint?chainId=25)
 
 ## Social Media
 
 [Discord](https://discord.gg/DqcEJhtpVv)
 
-[Twitter: DACC](https://twitter.com/degenapecroclub)
-
-[Twitter: TeenDACC](https://twitter.com/foxsae\_real)
+[Twitter](https://twitter.com/degenapecroclub)
 
 ## Official DACC Markets
 
@@ -38,7 +36,7 @@ Coming soon...
 
 ## TeenDACC Contract
 
-Coming soon...
+[TeenDACC Contract Address](https://cronoscan.com/token/0x25ea0f16e3a52db95e31f8514917a0610270e7cd)
 
 
 

@@ -38,9 +38,7 @@ Holders of the following NFTs will be automatically granted WL prices:
 
 ## Mint Incentives
 
-The first **50** people to mint **50** TeenDACC will receive the following rewards:\
-\
-(This includes free mints, so if you already have 10 free mints, then you would only need to mint 40 more to qualify for these incentives.)
+The first **50** people to mint **50** TeenDACC will receive the following rewards:
 
 * 1 free TeenDACC shirt
 * An exclusive Discord role
@@ -56,11 +54,7 @@ The TeenDACC collection also comes with **7** unique NFTs: #1111, #2222, #3333, 
 * A 7% discount for the future LSU project\
 
 
-These two mint incentives are **stackable**: if a person is among the first 50 people to mint 50 TeenDACC and also mints a unique NFT they will receive **2** TeenDACC shirts, a **14%** discount for LSU, the discord role, and the WL.\
-\
-The mint incentives end when we have reached 50 holders who have minted 50 TeenDACC, and also all 7 of the unique NFTs have been minted, or when the TeenDACC mint is otherwise finished.\
-\
-We will then hold a t-shirt design contest, and the chosen winner of the contest will also receive one TeenDACC shirt if they have not already qualified to win a shirt, and their design will be used as the design for the shirts that will be awarded as prizes.
+These two mint incentives are **stackable**: if a person is among the first 50 people to mint 50 TeenDACC and also mints a unique NFT they will receive **2** TeenDACC shirts, a **14%** discount for LSU, the discord role, and the WL.
 
 ## Free mints
 
