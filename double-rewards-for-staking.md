@@ -14,14 +14,18 @@ Not all of the interest that is generated will be paid out to the staking pools,
 
 | Value of the vault | Interest paid out | Interest compounded |
 | ------------------ | ----------------- | ------------------- |
-| After Mint         | 50%               | 45%                 |
-| USD 100,000+       | 60%               | 35%                 |
-| USD 200,000+       | 70%               | 25%                 |
-| USD 300,000+       | 95%               | 0%                  |
+| After Mint         | 50%               | 40%                 |
+| USD 100,000+       | 60%               | 30%                 |
+| USD 150,000+       | 70%               | 20%                 |
+| USD 200,000+       | 90%               | 0%                  |
 
-A 5% portion of the interest will also be withheld and used for TeenDACC buy-back-and-burn until the total supply of TeenDACC is reduced from 7777 to 3000, and after that goal has been reached the 5% portion of interest will become a management fee.&#x20;
+A 10% portion of the interest will also be withheld at all times and used for TeenDACC buy-back-and-burn for the first year.&#x20;
 
-There will also be a 5% portion of the vault entitled Experimental Investments which will be used for alternative strategies and future developments.
+After one year 5% will continue to be used for BB\&B and the other 5% will become a management fee.
+
+Once the total supply of TeenDACC has been reduced from 7777 to 3000, the 5% portion used for BB\&B will become team development funds. &#x20;
+
+There will also be a 5% portion of the vault investment entitled Experimental Investments which will be used for alternative strategies and future developments.
 
 The CandyCity NFT staking platform does not lock NFTs, holders will be free to move their NFTs into and out of the staking platform as they see fit.
 
