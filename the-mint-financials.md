@@ -14,15 +14,15 @@ The mint funds will be allocated as follows:
 
 
 
-The Launchpad will be with [CandyCity.finance](https://candycity.finance)
+The Launchpad will be with [CandyCity.finance](https://candycity.finance/nfts/mint?chainId=25)
 
 ## Price
 
 The minting will be done in **Cro** or an equivalent amount of **Candy**
 
-**WL Price**: 200 Cro (or equivalent Candy)
+**WL Price**: 100 Cro (or equivalent Candy)
 
-**Regular Price**: 300 cro (or equivalent Candy)
+**Regular Price**: 150 Cro (or equivalent Candy)
 
 **Mint date**: Feb 24th, 2023
 
@@ -35,29 +35,3 @@ Holders of the following NFTs will be automatically granted WL prices:
 3. Croswap: **Quartermasters**
 4. Moonflow: **Moonwolves**
 5. Phenix: **Flaming Phenix Club**
-
-## Mint Incentives
-
-The first **50** people to mint **50** TeenDACC will receive the following rewards:
-
-* 1 free TeenDACC shirt
-* An exclusive Discord role
-* WL for future projects
-* A 7% discount for the future LSU project\
-
-
-The TeenDACC collection also comes with **7** unique NFTs: #1111, #2222, #3333, #4444, #5555, #6666, and #7777. Those who mint one of these unique NFTs will receive the following rewards:
-
-* 1 free TeenDACC shirt
-* An exclusive Discord role
-* WL for future projects
-* A 7% discount for the future LSU project\
-
-
-These two mint incentives are **stackable**: if a person is among the first 50 people to mint 50 TeenDACC and also mints a unique NFT they will receive **2** TeenDACC shirts, a **14%** discount for LSU, the discord role, and the WL.
-
-## Free mints
-
-Many free mints will be given out as prizes through the [DACC Discord server](https://discord.gg/78GEbFdp).
-
-This will include a 20:1 ratio Airdrop for existing DACC holders.&#x20;
