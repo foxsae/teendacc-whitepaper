@@ -3,7 +3,7 @@
 * [🐒 Introduction](README.md)
 * [🚗 The Roadmap](the-roadmap.md)
 * [🗝 The Investment Vault](the-investment-vault.md)
-* [🔒 Double Rewards for Staking](double-rewards-for-staking.md)
+* [🔒 Staking Rewards](staking-rewards.md)
 * [🔥 Royalties and the Burn](royalties-and-the-burn.md)
 * [💸 The Mint Financials](the-mint-financials.md)
 * [🏆 The Mint Incentives](the-mint-incentives.md)
