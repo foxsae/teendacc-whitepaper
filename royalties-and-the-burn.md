@@ -20,5 +20,11 @@ Every week, for one year, the team will use 100% of the royalty fees generated b
 
 After the one-year BB\&B period has ended the royalties will be shifted, 50% of royalties will be permanently sent into the investment vault, and the other 50% of royalties will go to the team.\
 \
-After the one-year BB\&B period has ended the 10% portion of interest will also be shifted, 5% will be permanently sent back into the investment vault to be compounded, and the other 5% will become an investment vault management fee.\
+After the one-year BB\&B period has ended the 10% portion of interest will also be shifted, 5% will be permanently sent back into the investment vault to be compounded, and the other 5% will become an investment vault management fee.
+
+## The OG DACC Isolation Program
+
+The team has created a mechanism to reduce the total supply of the OG DACCs as well, which is called the Isolation Wallet. The team currently receives 25% of the secondary market royalties for DACC and has agreed to use these royalties to buy DACC off the secondary markets and send them into an isolation wallet. Once in the isolation wallet, those DACC will no longer be able to receive any further royalties, they will not be bought or sold on any markets, and they will not be staked. Once inside the isolation wallet, those DACC are effectively dead NFTs.
+
+The OG DACC isolation program will continue to run for one year after TeenDACC is listed on secondary markets, after this one-year period of isolation has been completed the 25% portion of royalty will return to the team.\
 \
