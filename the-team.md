@@ -22,8 +22,6 @@ description: The people behind the project
 
 ## The DACC Project Staff
 
-**SketchySquirrel** DACC Project Community Manager.
-
 **Higher\_Buyer** DACC Project Moderator.
 
 ****
