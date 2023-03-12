@@ -22,6 +22,8 @@ After the one-year BB\&B period has ended the royalties will be shifted, 50% of 
 \
 After the one-year BB\&B period has ended the 10% portion of interest will also be shifted, 5% will be permanently sent back into the investment vault to be compounded, and the other 5% will become an investment vault management fee.
 
+Through these two sources of revenue, 50% of royalty fees, and 5% of the interest, the investment vault will continue to grow forever, even after it reaches Tier 3 status.
+
 ## The OG DACC Isolation Program
 
 The team has created a mechanism to reduce the total supply of the OG DACCs as well, which is called the Isolation Wallet. The team currently receives 25% of the secondary market royalties for DACC and has agreed to use these royalties to buy DACC off the secondary markets and send them into an isolation wallet. Once in the isolation wallet, those DACC will no longer be able to receive any further royalties, they will not be bought or sold on any markets, and they will not be staked. Once inside the isolation wallet, those DACC are effectively dead NFTs.
