@@ -31,7 +31,7 @@ This NFT collection attempts to solve the following two problems:
 1. NFTs often have no clear value.&#x20;
 2. It is both confusing and time-consuming to deal with multiple different investment products from multiple different projects all at the same time.&#x20;
 
-The way that TeenDACC attempts to solve these problems is by creating an NFT with a built-in investment portfolio called the [Investment Vault](the-investment-vault.md). The Investment Vault will pay out the interest that it generates from Candy-farms and Cros-farms to staked NFT holders through the [CandyCity NFT Staking](https://candycity.finance/nfts/staking/partner?chainId=25) platform, and by a weekly airdrop of Cros-tokens. All of this wrapped up into a single easy-to-manage "handsome little monkey" NFT collectible.
+The way that TeenDACC attempts to solve these problems is by creating an NFT with a built-in investment portfolio called the [Investment Vault](the-investment-vault.md). The Investment Vault will pay out the interest that it generates from Candy-farms and Cros-farms to staked NFT holders through the [CandyCity NFT Staking](https://candycity.finance/nfts/staking/partner?chainId=25) platform. All of this wrapped up into a single easy-to-manage "handsome little monkey" NFT collectible.
 
 The TeenDACC project also aims to build a community of investors and utilize the combined knowledge and wisdom of this community to seek out the greatest available investment opportunities. \
 \
