@@ -27,6 +27,10 @@ For the first year after TeenDACC is listed on secondary markets a 10% portion o
 \
 Once this one-year period of BB\&B has been completed, the 10% of interest will be shifted, 5% will be sent back to the investment vault to be permanently compounded, and the other 5% of the interest will become a fund management fee.&#x20;
 
+There will also be a second source of revenue used for BB\&B, the royalty fee, for a one-year period 100% of the secondary market royalty fees will also be used for BB\&B of TeenDACC. After the one-year period of BB\&B is completed, the royalty fees will shift to 50% being compounded into the investment vault, and 50% going to the team. \
+\
+In this way through these two revenue streams, 50% of royalties, and 5% of compounded interest, the investment vault will continue to grow forever.&#x20;
+
 ## What type of coins will be paid to staked holders?
 
 In the beginning, payouts will be made in WCRO. Eventually, we would like to reward holders in whatever tokens our investments actually earn, so if the investments earn Candy we would like to eventually reward Candy or if it earns Cros we would like to reward Cros.
