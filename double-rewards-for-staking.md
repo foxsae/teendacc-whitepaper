@@ -31,12 +31,6 @@ Once this one-year period of BB\&B has been completed, the 10% of interest will 
 
 In the beginning, payouts will be made in WCRO. Eventually, we would like to reward holders in whatever tokens our investments actually earn, so if the investments earn Candy we would like to eventually reward Candy or if it earns Cros we would like to reward Cros.
 
-## Staking DACC NFTs
+## Staking OG DACCs
 
-DACC is a royalty-rewards NFT,  each week the team airdrops 75% of the royalties that DACC has earned from secondary markets back to DACC holders. DACC holders will still continue to receive this royalty payment airdrop even when they have staked their DACC into the CandyCity staking platform.
-
-## DACC NFT Isolation
-
-The team has created a mechanism to reduce the total supply of DACC, which is called the Isolation Wallet. The team currently receives 25% of the secondary market royalties for DACC, and has agreed to use these royalties to buy DACC off the markets and send them into an isolation wallet. Once in the isolation wallet, those DACC will no longer be able to receive any further royalties, they will not be bought or sold on any markets, and they will not be staked. Once inside the isolation wallet, those DACC are effectively dead NFTs.\
-\
-The DACC isolation program will continue to run for one year after TeenDACC is listed on secondary markets, after this one-year period of isolation has been completed the 25% portion of royalty will return to the team.&#x20;
+The OG DACCs are a royalty-rewards NFT,  each week the team airdrops 75% of the royalties that OG DACCs have earned from secondary markets back to OG DACC holders. The OG DACC holders will still continue to receive this royalty payment airdrop even when they have staked their OG DACC into the staking platform.
