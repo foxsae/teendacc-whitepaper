@@ -4,7 +4,7 @@ description: And they lived happily ever after...
 
 # 🚀 Future Plans
 
-After TeenDACC reaches 100% mint, and NFT staking has been enabled, the team will launch a swag store.
+After TeenDACC mint has ended, the team will launch a swag store.
 
 After that, we plan to launch our first major development project which we have tentatively named "LSU". It will be easy, secure, and inexpensive, and a portion of the proceeds will go to the [investment vault](the-investment-vault.md). LSU will become the next major chapter of the DACC project, and we can't wait to share it with the rest of the community.
 
