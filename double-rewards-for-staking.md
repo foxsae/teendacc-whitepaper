@@ -44,3 +44,9 @@ In the beginning, payouts will be made in WCRO. Eventually, we would like to rew
 ## Staking OG DACCs
 
 The OG DACCs are a royalty-rewards NFT,  each week the team airdrops 75% of the royalties that OG DACCs have earned from secondary markets back to OG DACC holders. The OG DACC holders will still continue to receive this royalty payment airdrop even when they have staked their OG DACC into the staking platform.
+
+## Wen Staking?
+
+Staking will go live for TeenDACC when the mint reaches #3333&#x20;
+
+Staking will go live for DACC when the mint reaches #7777 (100% complete)
