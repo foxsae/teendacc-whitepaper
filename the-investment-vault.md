@@ -16,33 +16,8 @@ The funds will be kept in a multi-sig wallet, which will have 3 signing authorit
 
 ## Investment Allocations
 
-## CandyCity: 20%
+## 85% Liquidity pools
 
-* 10% CandyCity Candy-USDC LP
-* 10% CandyCity Candy-WBTC
+## 10% NFTs
 
-## Croswap: 40%
-
-* 20% Croswap Cros-USDC LP
-* 20% Croswap WBTC-USDC LP
-
-## \_\_\_\_\_ 15%
-
-* Undecided
-
-## Cro Token Validator: 10%
-
-* 10% IcyCro Cro-token validator
-
-## NFTs: 10%
-
-* Bored Candy x10 (staking boosters)
-* Quartermasters x10 (staking boosters)
-* Degen Ape Cronos Club (DACC) x50 (passive income for gas)
-* TeenDACC x50 (passive income for gas)
-
-## Experimental Investments 5%
-
-* Phenix Finance Phnx-Token (staked into LP when available)
-* Flaming Phenix Club (staking booster when LP available)
-* And others...
+## 5% Experimental&#x20;
