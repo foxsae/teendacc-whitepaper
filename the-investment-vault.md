@@ -12,7 +12,9 @@ It is estimated that the size of the TeenDACC Investment Vault will be worth app
 
 ## Multi-Sig Wallet
 
-The funds will be kept in a multi-sig wallet, which will have 3 signing authorities, and every transaction will require at least 2 signatures. This ensures that no single person will have complete control or complete access to the funds.&#x20;
+The funds will be kept in a multi-sig wallet, which will have 3 signing authorities, and every transaction will require at least 2 signatures. This ensures that no single person will have complete control or complete access to the funds. \
+\
+Update: Unfortunately at this time there is no multi-sig wallet on cronos that enables us to interact with smart contracts, and we must be able to interact with smart contracts to be able to invest funds and harvest interest.
 
 ## Investment Allocations
 
