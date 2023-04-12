@@ -19,7 +19,7 @@ The value of the Investment Vault will start at 65% of the mint, meaning that we
 
 Whatever the value of the vault after the mint has completed (65% of the total mint funds) when those funds have doubled in value, meaning the total value of the vault has grown by 100% then the interest paid out will shift to the Tier 1 level, meaning the interest paid out to staked holders will be 60% of the interest, and the amount of interest compounded will be 30% of the interest\
 \
-Once the vault has grown by an additional 50% then, then the interest paid out and interest compounded will shift to Tier 2, and after an additional 25% growth they will switch to Tier 3.\
+Once the vault has grown by an additional 50% then, then the interest paid out and interest compounded will shift to Tier 2, and after an additional 34% growth they will switch to Tier 3.\
 \
 For example. Let us imagine that at mint completion 65% of the mint funds equals roughly USD $20,000. In this case the vault would reach Tier 1 status when the value of the vault increases by 100%. 20,000 \* 100% = 40,000. So in this example, when the funds reach $40,000 the fund will reach Tier 1 status.&#x20;
 
