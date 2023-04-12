@@ -22,7 +22,7 @@ After the one-year BB\&B period has ended the royalties will be shifted, 50% of 
 \
 After the one-year BB\&B period has ended the 10% portion of interest will also be shifted, 5% will be permanently sent back into the investment vault to be compounded, and the other 5% will become an investment vault management fee.
 
-Through these two sources of revenue, 50% of royalty fees, and 5% of the interest, the investment vault will continue to grow forever, even after it reaches Tier 3 status.
+Through these two sources of revenue, 50% of royalty fees, and 5% of the interest, the investment vault will continue to grow forever.
 
 ## The OG DACC Isolation Program
 
