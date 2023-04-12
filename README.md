@@ -35,6 +35,6 @@ All of this wrapped up into a single easy-to-manage "handsome little monkey" NFT
 
 The TeenDACC project also aims to build a community of investors and utilize the combined knowledge and wisdom of this community to seek out the greatest available investment opportunities. \
 \
-Eventually, we plan to launch our first major development project which we have tentatively named "LSU". It will be easy, secure, and inexpensive, and a portion of the proceeds will go to the [investment vault](the-investment-vault.md). LSU will become the next major chapter of the TeenDACC project, and we can't wait to share it with the rest of the community.
+Eventually, we plan to launch our first major development project which will be a series of games that will utilize our NFT projects, as well as our own Cryptocurrency Token on the Cronos chain. We have tentatively named this project "LSU". It will be easy, secure, and inexpensive, and a portion of the proceeds will go to the [investment vault](the-investment-vault.md). LSU will become the next major chapter of the DACC project, and we can't wait to share it with the rest of the community.
 
 The final stage of the TeenDACC project will be to automate the entire process so that it no longer requires any human intervention to manage its funds or to make payouts to NFT holders.&#x20;
