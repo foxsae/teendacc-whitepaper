@@ -97,7 +97,7 @@ Total combined reward (current + previous) 300 Teens. (1+3+10+25+50+100+111)&#x2
 
 
 
-The total supply of free Teens that can be earned from this incentive will be capped at 2000. We have minted 1000 TeenDACC for this giveaway, if we burn through the first 1000 then we will consider if we should mint 1000 more to continue to offer this incentive.
+The total supply of free Teens that can be earned from this incentive will be capped at 1000. We have minted 1000 TeenDACC for this giveaway, if we burn through the first 1000 then we will consider if we should mint 1000 more to continue to offer this incentive.
 
 ## **3) Hammy Rumble Royale**&#x20;
 
