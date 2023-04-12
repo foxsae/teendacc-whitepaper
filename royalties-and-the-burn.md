@@ -26,7 +26,7 @@ Through these two sources of revenue, 50% of royalty fees, and 5% of the interes
 
 ## The OG DACC Isolation Program
 
-The team has created a mechanism to reduce the total supply of the OG DACCs as well, which is called the Isolation Wallet. The team currently receives 25% of the secondary market royalties for DACC and has agreed to use these royalties to buy DACC off the secondary markets and send them into an isolation wallet. Once in the isolation wallet, those DACC will no longer be able to receive any further royalties, they will not be bought or sold on any markets, and they will not be staked. Once inside the isolation wallet, those DACC are effectively dead NFTs.
-
-The OG DACC isolation program will continue to run for one year after TeenDACC is listed on secondary markets, after this one-year period of isolation has been completed the 25% portion of royalty will return to the team.\
+The team has created a mechanism to reduce the total supply of the OG DACCs, called the Isolation Wallet (ISO wallet for short). The team currently receives 25% of the secondary market royalties for DACC and has agreed to use these royalties to buy DACC off the secondary markets and send them to the ISO wallet. The goal is that eventually, those DACC will no longer be able to receive any further royalties, they will not be able to be bought or sold on any markets, and they will not be able to be staked. Once in ISO, those DACC are effectively dead NFTs.\
+\
+After a community vote, we have decided that the DACC in the ISO wallet will continue to receive royalties until the ISO wallet becomes the single largest DACC holder, at which time the royalties it receives will be returned each week to the royalty wallet.\
 \

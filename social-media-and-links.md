@@ -12,6 +12,10 @@ description: Always check the contract address
 
 [Minting Now!!](https://candycity.finance/nfts/mint?chainId=25)
 
+## Investment Rewards Website
+
+[https://dacc.netlify.app/](https://dacc.netlify.app/)
+
 ## Social Media
 
 [Discord](https://discord.gg/DqcEJhtpVv)
