@@ -10,9 +10,14 @@ When the TeenDACC mint is concluded, the top 10 holders will receive a coupon fo
 
 ## ~~2. Buy and mint an equal amount of DACC + TeenDACC~~
 
-THIS INCENTIVE WAS VERY SUCCESSFUL, AND HAS FINISHED, FOR NOW.
+\
+\
+INCENTIVE #2 IS NO LONGER BEING OFFERED.
 
-STAY TUNED FOR NEW UPDATES TO COME.\
+INCENTIVE #2 IS NO LONGER BEING OFFERED.
+
+INCENTIVE #2 IS NO LONGER BEING OFFERED.\
+\
 \
 This incentive will be back-dated to March 3rd 2023.&#x20;
 
