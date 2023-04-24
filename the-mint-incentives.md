@@ -8,8 +8,12 @@ description: Some special gifts to motivate minters
 
 When the TeenDACC mint is concluded, the top 10 holders will receive a coupon for a free t-shirt (including shipping) from our store partner BuddieLabs.&#x20;
 
-## 2. Buy and mint an equal amount of DACC + TeenDACC
+## ~~2. Buy and mint an equal amount of DACC + TeenDACC~~
 
+THIS INCENTIVE WAS VERY SUCCESSFUL, AND HAS FINISHED, FOR NOW.
+
+STAY TUNED FOR NEW UPDATES TO COME.\
+\
 This incentive will be back-dated to March 3rd 2023.&#x20;
 
 This incentive is for people to buy an EQUAL amount of DACC to the amount of TeenDACC that they mint.&#x20;
