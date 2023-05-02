@@ -10,8 +10,6 @@ This portfolio will pay out a portion of the interest it earns in Cro tokens to 
 
 ## Investment Allocations
 
-## 85% Liquidity pools
+## 90% Liquidity pools
 
 ## 10% NFTs
-
-## 5% Experimental&#x20;
