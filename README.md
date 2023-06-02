@@ -10,7 +10,7 @@ description: Learn about the TeenDACC investment NFT collection
 
 TeenDACC is an investment NFT on the Cronos blockchain.
 
-TeenDACC aims to become a premier investment for staked NFT holders.
+TeenDACC aims to become a premier investment for holders.
 
 Collection details:
 

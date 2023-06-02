@@ -6,11 +6,7 @@ description: How the Mint funds will be allocated
 
 The mint funds will be allocated as follows:
 
-| Percentage | Allocation                           |
-| ---------- | ------------------------------------ |
-| 65%        | Goes to the Investment Vault         |
-| 10%        | Goes to the Team                     |
-| 25%        | Launchpad + Development + Promotions |
+<table><thead><tr><th width="210">Percentage</th><th>Allocation</th></tr></thead><tbody><tr><td>70%</td><td>Goes to the Investment Vault</td></tr><tr><td>30%</td><td>Launchpad + Development + Promotions + Team</td></tr></tbody></table>
 
 
 
